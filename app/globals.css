@@ -344,8 +344,8 @@ section {
   position: absolute;
   inset: 0;
   background-size: cover;
-  background-position: center;
-  filter: saturate(0.78) brightness(0.78) contrast(1.02);
+  background-position: center 68%;
+  filter: saturate(0.9) brightness(0.6) contrast(1.05);
   transform: scale(1.06);
   animation: heroZoom 18s var(--ease) forwards;
 }

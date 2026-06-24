@@ -3,8 +3,7 @@ import Reveal from "@/components/Reveal";
 import ContactForm from "@/components/ContactForm";
 import Logo from "@/components/Logo";
 
-const HERO_IMG =
-  "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=2000&q=80";
+const HERO_IMG = "/hero-crx.jpg";
 const UK_IMG =
   "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=1400&q=80";
 
